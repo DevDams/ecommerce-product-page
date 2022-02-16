@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Ecomm](https://damx-ecoom.netlify.app/)
 
 ## My process
 
@@ -61,4 +61,4 @@ In the future, I will continue to build my projects with ReactJs to increase my 
 
 - Website - [Adams Aimé-Désiré](https://damsx.netlify.app)
 - Frontend Mentor - [@DevDams](https://www.frontendmentor.io/profile/DevDams)
-- Twitter - [@yourusername](https://www.twitter.com/dams9ix)
+- Twitter - [@dams9ix](https://www.twitter.com/dams9ix)
